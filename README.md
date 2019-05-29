@@ -8,6 +8,6 @@ Abyśmy wiedzieli kto za tym stoi
 Software & Hardware Developer
 
 #### Dziennik pokładowy
-Dziś utworzyłem repozytorium oraz krótki wstęp
-Domena jest w trakcie rejestracji
-Do zrobienia jest specyfikacja wstępnej wersji programu, ograniczona, by możliwe jej było napisanie w kilka tygodni.
++ utworzyłem repozytorium oraz krótki wstęp
++ domena dla projektu demogracja.pl jest w trakcie rejestracji
++ do zrobienia jest specyfikacja wstępnej wersji programu, ograniczona, by możliwe jej było napisanie w kilka tygodni
