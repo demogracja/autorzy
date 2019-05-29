@@ -2,8 +2,8 @@
 Abyśmy wiedzieli kto za tym stoi
 
 ## 29.05.2019
-Tomasz Sapletta
-*Software & Hardware Developer
+**Tomasz Sapletta
+Software & Hardware Developer
 
 #### Dziennik pokładowy
 Dziś utworzyłem repozytorium oraz krótki wstęp
